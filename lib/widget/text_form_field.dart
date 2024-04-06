@@ -31,7 +31,7 @@ class TextFormFieldSherd extends StatelessWidget {
           prefixIcon: IconData,
         
           border: OutlineInputBorder(
-            borderRadius: BorderRadius.circular(20),
+            borderRadius: BorderRadius.circular(30),
           )),
       validator: validat!,
     );

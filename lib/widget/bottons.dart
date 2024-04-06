@@ -64,7 +64,7 @@ final Function() onPressed;
         height: 60,
         child: SignInButton(
           Buttons.googleDark,
-          text: "Sign up with Google",
+          text: "Sign up with Google test ",
           elevation: 8,
           onPressed: onPressed,
         ),

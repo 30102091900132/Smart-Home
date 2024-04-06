@@ -42,6 +42,7 @@ class HomePage extends StatelessWidget {
            // const Spacer(),
 
             SizedBox(height: 20,),
+            Text("Test conflict"),
           ],
         ),
       ) ,
