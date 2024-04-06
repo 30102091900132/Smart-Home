@@ -44,6 +44,9 @@ class HomePage extends StatelessWidget {
             SizedBox(height: 20,),
             Text("Test conflict"),
             Text("Test conflict by terminal"),
+            Text("Test conflict by terminal"),
+
+
           ],
         ),
       ) ,
